@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-solution-Adis_h_8tO](https://www.frontendmentor.io/solutions/recipe-page-solution-Adis_h_8tO)
+- Live Site URL: [https://recipe-page-solution-101.netlify.app/](https://recipe-page-solution-101.netlify.app/)
 
 ## My process
 
