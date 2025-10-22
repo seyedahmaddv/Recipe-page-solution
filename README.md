@@ -1,6 +1,5 @@
-# Frontend Mentor - Recipe page solution
+# Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-solution-Adis_h_8tO](https://www.frontendmentor.io/solutions/recipe-page-solution-Adis_h_8tO)
 - Live Site URL: [https://recipe-page-solution-101.netlify.app/](https://recipe-page-solution-101.netlify.app/)
 
 ## My process
@@ -101,7 +99,6 @@ Areas I want to continue focusing on in future projects:
 ## Author
 
 - Website - [Seyed Ahmad Gholami](https://www.linkedin.com/in/seyedahmaddv/)
-- Frontend Mentor - [@seyedahmaddv](https://www.frontendmentor.io/profile/seyedahmaddv)
 - LinkedIn - [Seyed Ahmad Gholami](https://www.linkedin.com/in/seyedahmaddv/)
 
 ---
